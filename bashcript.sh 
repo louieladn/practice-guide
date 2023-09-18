@@ -1,0 +1,17 @@
+
+#! /bin/bash
+
+echo "Hello louie" 
+
+sleep 3
+
+echo "how are you today?" 
+
+
+sleep 3
+
+
+echo"wish you a good luck" 
+
+
+
